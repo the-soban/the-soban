@@ -20,6 +20,8 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=the-soban&" alt="the-soban" /></p>
 
+<h3 align="center">Here's a random dev quote:</h3>
+<img align="center" style="margin: 0 auto" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 
 <!---
 the-soban/the-soban is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
