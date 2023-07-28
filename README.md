@@ -29,8 +29,9 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=the-soban&" alt="the-soban" /></p>
 
 <h3 align="center">Here's a random engineering quote:</h3>
-<img align="center" style="margin: 0 auto" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+<img align="center" height="170px" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 
+<br />
 <p align="center"><img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake"></p>
 
 <!---
