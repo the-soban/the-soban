@@ -1,17 +1,21 @@
 <h1 align="center">Hi 👋, I'm Soban.</h1>
 <h3 align="center">A passionate and curious front-end developer.</h3>
 
-- 👨‍💻 I’m a front-end developer [based in Pakistan.](https://fmovies.wtf/home)
+<img align="right" width= "220px" src="https://avatars.githubusercontent.com/u/109435008?v=4" />
 
-- 🚀 I’m currently working on my own [ReactJS Projects.](https://github.com/the-soban?tab=repositories)
+  - 👨‍💻 I’m a front-end developer based in Pakistan.
 
-- 🙋‍♂️ I'm usually active on my [Twitter](https://twitter.com/the_soban3) and [LinkedIn](https://linkedin.com/in/sobans) profiles.
+  - 🚀 I’m currently working on my own **[ReactJS Projects.](https://github.com/the-soban?tab=repositories)**
 
-- 🌱 I’m also learning **NextJS, NodeJS, ExpressJS and MongoDB.**
+  - 🙋‍♂️ I'm usually active on my [Twitter](https://twitter.com/the_soban3) and [LinkedIn](https://linkedin.com/in/sobans) profiles.
 
-- 📫 Reach out to me at **sobanshafeq123@gmail.com**
+  - 🌱 I’m also learning **NextJS, NodeJS, ExpressJS and MongoDB.**
 
-- ⚡ Fun fact: **Software engineers spend more time learning as compared to others.**
+  - 📫 Reach out to me at **sobanshafeq123@gmail.com**
+
+  - ⚡ Fun fact: **Software engineers spend more time learning as compared to others.**
+
+
 
 <!--
 <img align="center" src="https://komarev.com/ghpvc/?username=the-soban" />
