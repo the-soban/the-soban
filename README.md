@@ -31,6 +31,8 @@
 <h3 align="center">Here's a random engineering quote:</h3>
 <img align="center" style="margin: 0 auto" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 
+<p align="center"><img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake"></p>
+
 <!---
 the-soban/the-soban is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
