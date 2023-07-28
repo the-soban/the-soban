@@ -7,9 +7,9 @@
 
   - 🚀 I’m currently working on my own **[ReactJS Projects.](https://github.com/the-soban?tab=repositories)**
 
-  - 🙋‍♂️ I'm usually active on my [Twitter](https://twitter.com/the_soban3) and [LinkedIn](https://linkedin.com/in/sobans) profiles.
-
   - 🌱 I’m also learning **NextJS, NodeJS, ExpressJS and MongoDB.**
+
+  - 🙋‍♂️ I'm usually active on my [Twitter](https://twitter.com/the_soban3) and [LinkedIn](https://linkedin.com/in/sobans) profiles.
 
   - 📫 Reach out to me at **sobanshafeq123@gmail.com**
 
