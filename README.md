@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Soban.</h1>
 <h3 align="center">A passionate and curious front-end developer.</h3>
 
-<img align="right" width= "220px" src="https://avatars.githubusercontent.com/u/109435008?v=4" />
+<img align="right" width= "290px" src="./illustration.png" />
 
   - 👨‍💻 I’m a front-end developer based in Pakistan.
 
