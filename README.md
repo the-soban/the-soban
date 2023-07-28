@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Soban.</h1>
 <h3 align="center">A passionate and curious front-end developer.</h3>
+<h4 align="center">Frontend developer by day, MERN stack addict by night.</h4>
 
 <img align="right" width= "300px" src="./illustration1.png" />
 
