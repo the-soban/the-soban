@@ -6,15 +6,15 @@
 
   - 👨‍💻 I’m a front-end developer based in Pakistan.
 
-  - 🚀 I’m currently working on my own **[ReactJS Projects.](https://github.com/the-soban?tab=repositories)**
+  - 🚀 I’m currently working on my own **[ReactJS and MERN Projects.](https://github.com/the-soban?tab=repositories)**
 
   - 🌱 I’m also learning **NextJS, NodeJS, ExpressJS and MongoDB.**
 
   - 🙋‍♂️ I'm usually active on my [Twitter](https://twitter.com/the_soban3) and [LinkedIn](https://linkedin.com/in/sobans) profiles.
 
-  - 📫 Reach out to me at **sobanshafeq123@gmail.com**
+  - 📫 You can reach me at **sobanshafeq123@gmail.com**
 
-  - ⚡ Fun fact: **Software engineers spend more time learning as compared to others.**
+  - ⚡ Fun fact: **Software engineers spend more time learning new stuff as compared to others.**
 
 
 
