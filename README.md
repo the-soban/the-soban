@@ -2,7 +2,7 @@
 <h3 align="center">A passionate and curious front-end developer.</h3>
 <h4 align="center">Frontend developer by day, MERN stack addict by night.</h4>
 
-<img align="right" width= "300px" src="./illustration1.png" />
+<img align="right" width= "290px" src="./illustration1.png" />
 
   - 👨‍💻 I’m a front-end developer based in Pakistan.
 
