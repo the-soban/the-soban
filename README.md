@@ -8,7 +8,7 @@
 
   - 🚀 I’m currently working on my own **[ReactJS and MERN Projects.](https://github.com/the-soban?tab=repositories)**
 
-  - 🌱 I’m also learning **NextJS, NodeJS, ExpressJS and MongoDB.**
+  - 🌱 Learning **NextJS, NodeJS, Express, MongoDB and Flutter.**
 
   - 🙋‍♂️ I'm usually active on my [Twitter](https://twitter.com/the_soban3) and [LinkedIn](https://linkedin.com/in/sobans) profiles.
 
